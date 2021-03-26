@@ -1,6 +1,12 @@
 # Projeto Lyrics Search 
 
-## Página criada em React utilizando a API [LyricsOVH](https://lyricsovh.docs.apiary.io/#).
+## Página criada utilizando a API [LyricsOVH](https://lyricsovh.docs.apiary.io/#).
+
+### Pacotes utilizados:
+
+- React
+- Styled-Components
+- Axios
 
 ### Visite: [Lyrics Search](https://lyrics-devpaulo.vercel.app/)
 
